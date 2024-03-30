@@ -17,7 +17,8 @@
     to install, simply clone the repo and run it in the command line using Node.js and use a system such as insomnia to make requests. (remeber to add a force true the first time you run it or it wont work!)
 
   ## Usage
-  insomnia can be used to make localhost requests on server 3001
+  insomnia can be used to make localhost requests on server 3001.
+  link to a video showing sucessful requests: https://drive.google.com/file/d/1VrXH4UQ5q0prcgPnb7w0yhoUiPR1Zdx7/view 
 
   link to demo video: https://drive.google.com/file/d/14e_v92ecXEsIsAo9RbrJBLDvch00z2rU/view 
   ## How to Contribute
